@@ -7,7 +7,7 @@
 <body>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.castironskilletcooking.com%2Fwp-content%2Fuploads%2F2024%2F01%2FElk-Stew-7.jpg&f=1&nofb=1&ipt=fb8bcf13d9b5d576e703733de92859a93f5a95c13c3a55d004928e6a8d1a07f7" alt="elkstew taken from google" width="640px" height="250px">
 <h1>Elkstew for cowboys</h1>
-<p> So you have searched for a recipe on how to make stew of delicious meat such as elk or <a href="https://sv.wikipedia.org/wiki/%C3%84lgar"> aelg </a href> as we would pronounce it in swedish. To begin with either aquire elkmeat from the market or go out hunting yourself. Preferebly with a friend or more.
+<p> So you have searched for a recipe on how to make stew of delicious meat such as elk or <a href="https://sv.wikipedia.org/wiki/%C3%84lgar" target="_blank"> aelg </a href> as we would pronounce it in swedish. To begin with either aquire elkmeat from the market or go out hunting yourself. Preferebly with a friend or more.
 <h2>Ingredients</h2>
 <ul> <li> <input type="checkbox"> 1 gallon of rice </li> </ul>
 <ul> <li> <input type="checkbox"> just a bit of elk meat </li> </ul> 
